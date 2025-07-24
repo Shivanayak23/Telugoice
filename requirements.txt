@@ -1,0 +1,14 @@
+streamlit
+transformers
+torch
+sentencepiece
+pandas
+numpy
+scikit-learn
+nltk
+langdetect
+deep-translator
+tqdm
+requests
+huggingface_hub
+matplotlib

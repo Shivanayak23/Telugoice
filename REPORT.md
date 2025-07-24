@@ -1,18 +1,6 @@
 # 📄 REPORT.md
 
-## 1.1. 🧑‍🤝‍🧑 Team Information
-
-| S.No | Name               | Role                     |
-|------|--------------------|--------------------------|
-| 1    | Shiva Sai Nath     | Team Lead & Developer    |
-| 2    | Khushi             | UI/UX Designer           |
-| 3    | Pranay             | AI Model Integrator      |
-| 4    | Harshith           | Tester & Evaluator       |
-| 5    | Khushi             | Documentation Lead       |
-
----
-
-## 1.2. 📱 Application Overview (MVP Scope)
+## 1.1. 📱 Application Overview (MVP Scope)
 
 ### **Project Name:** Telugoice
 
@@ -27,7 +15,7 @@ Designed for **offline-first** functionality and **low-bandwidth environments**,
 
 ---
 
-## 1.3. 🤖 AI Integration Details
+## 1.2. 🤖 AI Integration Details
 
 - **STT (Speech-to-Text):** OpenAI Whisper model for accurate Telugu and English transcription.
 - **TTS (Text-to-Speech):** Coqui TTS and gTTS for natural audio output.
@@ -36,7 +24,7 @@ Designed for **offline-first** functionality and **low-bandwidth environments**,
 
 ---
 
-## 1.4. 🏗 Technical Architecture & Development
+## 1.3. 🏗 Technical Architecture & Development
 
 - **Frontend:** Streamlit web interface.
 - **Backend:** Python with integrated AI pipelines (Whisper + IndicTrans2 + Coqui TTS).
@@ -46,7 +34,7 @@ Designed for **offline-first** functionality and **low-bandwidth environments**,
 
 ---
 
-## 1.5. 🧑‍🔬 User Testing & Feedback
+## 1.4. 🧑‍🔬 User Testing & Feedback
 
 - **Week 2 Testing Plan:**
   - Conducted tests with students and rural users.
@@ -58,7 +46,7 @@ Designed for **offline-first** functionality and **low-bandwidth environments**,
 
 ---
 
-## 1.6. 🗓 Project Lifecycle & Roadmap
+## 1.5. 🗓 Project Lifecycle & Roadmap
 
 ### **A. Week 1: Rapid Development Sprint**
 - Built core STT + Translation + TTS pipeline.
@@ -83,7 +71,7 @@ Designed for **offline-first** functionality and **low-bandwidth environments**,
 
 ---
 
-## 1.7. 🌟 Impact
+## 1.6. 🌟 Impact
 
 - Bridges the **Telugu-English language gap** for students and communities.
 - Encourages **open data contribution** for AI in Indian languages.
@@ -91,7 +79,7 @@ Designed for **offline-first** functionality and **low-bandwidth environments**,
 
 ---
 
-## 1.8. 🚀 Future Scope
+## 1.7. 🚀 Future Scope
 
 - Add support for **more Indian languages** (Hindi, Tamil).
 - Build a **mobile app** version.

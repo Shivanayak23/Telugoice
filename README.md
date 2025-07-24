@@ -96,6 +96,17 @@
 - Record demo video.
 - Submit report and corpus sample.
 
+# Telugoice
+
+A simple AI-powered Telugu text-to-speech app built with Streamlit and gTTS.
+
+## How to Use
+- Enter any Telugu sentence.
+- Click submit to hear the spoken output.
+
+Built for the Summer of AI 2025 project — focuses on low-bandwidth voice synthesis.
+
+
 ---
 
 ## ⚙️ Setup Instructions

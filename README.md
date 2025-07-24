@@ -8,28 +8,14 @@
 
 ## 📑 Table of Contents
 
-- [Team Information](#team-information)
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Planning](#planning)
-- [Team Contributions](#team-contributions)
 - [Project Roadmap](#project-roadmap)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [License](#license)
-
----
-
-## 👥 Team Information
-
-| S.No | Name               | Role                     |
-|------|--------------------|--------------------------|
-| 1    | Shiva Sai Nath     | Team Lead & Developer    |
-| 2    | Khushi             | UI/UX Designer           |
-| 3    | Pranay             | AI Model Integrator      |
-| 4    | Harshith           | Tester & Evaluator       |
-| 5    | Khushi             | Documentation Lead       |
 
 ---
 
@@ -68,18 +54,6 @@
 
 ---
 
-## 🧑‍🤝‍🧑 Team Contributions
-
-| Name              | Responsibilities                                |
-|-------------------|-------------------------------------------------|
-| Shiva Sai Nath M  | Architecture, Translation Logic, Corpus Logging |
-| Khushi            | UI/UX Design, Layout                            |
-| Pranay            | Whisper, TTS Integration                        |
-| Harshith          | Testing, Voice Clarity Checks                   |
-| Khushi            | Documentation, Report Writing                   |
-
----
-
 ## 🗺 Project Roadmap (4 Weeks)
 
 **Week 1: MVP Dev**
@@ -96,6 +70,8 @@
 - Record demo video.
 - Submit report and corpus sample.
 
+---
+
 # Telugoice
 
 A simple AI-powered Telugu text-to-speech app built with Streamlit and gTTS.
@@ -105,7 +81,6 @@ A simple AI-powered Telugu text-to-speech app built with Streamlit and gTTS.
 - Click submit to hear the spoken output.
 
 Built for the Summer of AI 2025 project — focuses on low-bandwidth voice synthesis.
-
 
 ---
 
